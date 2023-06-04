@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [fs-masterclass](https://github.com/devanfer02/fs-masterclass)
 
-- 🌱 I’m currently learning **backend, such as laravel, node js and competitive programming too. Right now,i have interest in learning react.**
+- 🌱 I’m currently learning backend, such as laravel, node js and competitive programming too. Right now, i have interest in learning react.
 
-- 👯 I’m looking to collaborate on **fs-masterclass to learn more about react**
+- 👯 I’m looking to collaborate on fs-masterclass to learn more about react
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
