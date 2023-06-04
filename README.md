@@ -12,6 +12,7 @@
 <a href="https://linkedin.com/in/dvnnfrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dvnnfrr" height="30" width="40" /></a>
 <a href="https://instagram.com/dvnf20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dvnf20" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/dvnf20.cpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dvnf20.cpp" height="30" width="40" /></a>
+<a href="https://github.com/dvnf10cpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dvnf20.cpp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
