@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Devan</h1>
-<h3 align="center">A person who has interest in competitive programming and backend developer</h3>
+<h1>Hi there 👋, I'm Devan</h1>
+<h3">A person who has interest in competitive programming and backend developer</h3>
 
 - 🔭 I’m currently working on [fs-masterclass](https://github.com/devanfer02/fs-masterclass)
 
