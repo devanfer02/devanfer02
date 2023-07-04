@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning backend, such as laravel, node js and competitive programming too. Right now, i'm also learning [algorithm and data structure](https://github.com/devanfer02/Algorithm-Data-Structure).
 
-- 👯 I’m looking to collaborate on with frontend developers so i can make use of my trash api 
+- 👯 I’m looking to collaborate with frontend developers so i can make use of my trash shitty api 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
