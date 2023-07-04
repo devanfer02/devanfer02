@@ -21,4 +21,4 @@ It's in here : https://github.com/dvnf10cpp</p>
 
 ![Devan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanfer02&show_icons=true&theme=tokyonight)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanfer02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanfer02&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
