@@ -1,9 +1,9 @@
 <h1>Hi there 👋, I'm Devan</h1>
 <h2>A person who has interest in competitive programming and backend developer</h2>
 
-- 🌱 I’m currently learning backend, such as laravel, node js and competitive programming too. Right now, i have interest in learning react.
+- 🌱 I’m currently learning backend, such as laravel, node js and competitive programming too. Right now, i'm also learning [algorithm and data structure](https://github.com/devanfer02/Algorithm-Data-Structure).
 
-- 👯 I’m looking to collaborate on fs-masterclass to learn more about react
+- 👯 I’m looking to collaborate on with frontend developers so i can make use of my trash api 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
