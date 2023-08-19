@@ -20,5 +20,5 @@ Looking for my java university codes?
 
 <h3> Stats <h3/>  
   
-![Devan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanfer02&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanfer02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Devan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanfer02&show_iconstrue&theme=neon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanfer02&theme=neon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
