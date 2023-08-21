@@ -1,7 +1,7 @@
 <h1>Hi there 👋, I'm Devan</h1>
 <h2>A person who has interest in competitive programming and backend developer</h2>
 
-- 🌱 I’m currently learning backend, such as laravel, node js and competitive programming too.
+- 🌱 I’m currently learning backend, such as laravel, node js, golang and competitive programming too.
 - 👯 I’m looking to collaborate with frontend developers so i can make use of my trash shitty api 
 
 <h3 align="left">Connect with me:</h3>
