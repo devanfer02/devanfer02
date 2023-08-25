@@ -12,7 +12,7 @@
 <a href="https://github.com/dvnf10cpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dvnf20.cpp" height="30" width="40" /></a>
 </p>
 
-Looking for my java university codes? 
+Looking for my university codes? 
 [It's right here](https://github.com/dvnf10cpp)
 
 <h3 align="left">Languages and Tools:</h3>
