@@ -20,5 +20,5 @@ Looking for my university codes?
 
 <h3> Stats <h3/>  
   
-![Devan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanfer02&show_iconstrue&bg_color=d44e2a)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanfer02&bg_color=d44e2a&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=devanfer02&theme=neon&layout=compact)
+![Devan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanfer02&show_iconstrue&bg_color=d44e2a&title_color=111618&text_color=111618&icon_color=111618&&border_color=111618)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanfer02&layout=compact&&bg_color=d44e2a&title_color=111618&text_color=111618&icon_color=111618&&border_color=111618)](https://github-readme-stats.vercel.app/api/top-langs/?username=devanfer02&theme=neon&layout=compact)
