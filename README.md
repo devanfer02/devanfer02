@@ -1,10 +1,17 @@
-<h1>Hi there 👋, I'm Devan</h1>
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+<div>
+<h1 style="text-align:center;">Hi there 👋, I'm Devan</h1>
 
-![gif](https://media1.tenor.com/m/zXCbu7b7qA8AAAAd/bocchi-the-rock-bocchi-the-rock-gif.gif)
+<img src="https://media1.tenor.com/m/zXCbu7b7qA8AAAAd/bocchi-the-rock-bocchi-the-rock-gif.gif" width="400"/>
+</div>
 
-- 🤔 I'm interested in backend development and competitive programming
-- 🌱 I’m currently learning backend, such as laravel, node js, golang and competitive programming too.
-- 👯 I’m looking to collaborate with frontend developers so i can make use of my trash shitty api 
+</div>
+
+
+- <p style="font-size:16px">🤔 I'm interested in backend development and competitive programming </p>
+-  <p style="font-size:16px"> 🌱 I’m currently learning backend, such as laravel, golang and competitive programming too. </p>
+-  <p style="font-size:16px"> 👩🏻‍💻 Also currently learning frontend stack such as nextjs </p>
+-  <p style="font-size:16px"> 👯 I’m looking to collaborate with frontend developers so i can make use of my trash shitty api  </p>
 
 <h2 align="left">🌐 Connect with me:</h2>
 <p align="left">
@@ -30,17 +37,22 @@ height="45"/>
 <img src="assets/skill-icons--docker.svg" width="45" height="45"/>
 <img src="assets/skill-icons--ubuntu-dark.svg" width="45" height="45"/>
 <img src="assets/skill-icons--mysql-dark.svg" width="45" height="45"/>
-<img src="assets/logos--gin.svg" width="45" height="45"/>
-<img src="assets/logos--aws-ec2.svg" width="45" height="45"/>
+<img src="assets/skill-icons--react-dark.svg" width="45" height="45"/>
+<img src="assets/skill-icons--nextjs-dark.svg" width="45" height="45"/>
+<img src="assets/logos--gin.svg" width="45" height="45" style="background-color:white; border-radius:10px;"/>
+<img src="assets/logos--aws-ec2.svg" width="45" height="45" style="border-radius:10px;"/>
 
 
 </div>
 
 <h2>🗃️ Alt Repo </h2>
 
-If you are looking for my universities source code, you can found what you're looking for in this alt github account : [Alt Github](https://github.com/dvnf10cpp)
+<p style="font-size:14px;">
+If you are looking for my university source code, you might found what you're looking for in this alt github account : <a href="https://github.com/dvnf10cpp">Alt Github</a>
+</p>
+
 
 <h2>📊 Stats </h2>  
   
-![Devan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanfer02&show_iconstrue&theme=yeblu)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanfer02&layout=compact&theme=yeblu)](https://github-readme-stats.vercel.app/api/top-langs/?username=devanfer02&theme=neon&layout=compact)
+![Devan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanfer02&show_iconstrue&theme=holi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanfer02&layout=compact&theme=holi)](https://github-readme-stats.vercel.app/api/top-langs/?username=devanfer02&theme=neon&layout=compact)
