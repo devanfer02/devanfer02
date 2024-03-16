@@ -1,9 +1,7 @@
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
-<div>
+<div align="center">
 <h1 style="text-align:center;">Hi there 👋, I'm Devan</h1>
 
 <img src="https://media1.tenor.com/m/zXCbu7b7qA8AAAAd/bocchi-the-rock-bocchi-the-rock-gif.gif" width="400"/>
-</div>
 
 </div>
 
