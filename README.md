@@ -34,6 +34,7 @@ I'm a passionate software engineer with an interest in backend, devops and littl
 
 ### Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![TanstackStart](https://img.shields.io/badge/TanStack%20Start-00C7B7?style=for-the-badge&logo=tanstack&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
