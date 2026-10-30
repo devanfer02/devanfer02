@@ -2,12 +2,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate software engineer with an interest in backend, devops and little of competitive programming. I love architecting robust systems and tackling algorithmic challenges. Currently expanding my skillset with modern frameworks and technologies.
+Software Engineer working on backend and infrastructure. I build and run production backends and data pipelines, remotely with teams in the US, Singapore and Indonesia. Off the clock i watch animes, series like rezero, kaguya-sama, severance, etc and like to experiment with current ai coding tech, building my own skills and workflows for tailored for me. 
 
-- 🔭 **Primary Stack:** Go & Laravel
-- 🌱 **Currently Learning:** Next.js, Tanstack Start, Jetpack Compose
-- 💼 **Open For:** Backend & Full Stack Developer positions
-- 🎯 **Focus Areas:** Scalable APIs, System Design, Performance Optimization
+- 🔭 **Primary Stack:** Go, Typescript
+- 🌱 **Currently Learning:** Next.js, Tanstack Start
+- 💼 **Open For:** Backend & Infra positions
 
 <div align="">
 
@@ -36,21 +35,16 @@ I'm a passionate software engineer with an interest in backend, devops and littl
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![TanstackStart](https://img.shields.io/badge/TanStack%20Start-00C7B7?style=for-the-badge&logo=tanstack&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Drizzle](https://img.shields.io/badge/Drizzle-%23000000?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge)
@@ -66,9 +60,7 @@ I'm a passionate software engineer with an interest in backend, devops and littl
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
 ### Development Tools
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -102,6 +94,6 @@ I'm always open to interesting conversations and collaboration opportunities. Wh
 
 - 💼 **Open for:** Backend Developer, Software Engineer positions
 - 📧 **Contact:** Via LinkedIn or Instagram
-- 🌐 **Portfolio:** [Devan's Portofolio Web](https://dvnnfrr.my.id/)
+- 🌐 **Portfolio:** [Devan's Portofolio Web](https://ferrel.dev/)
 
 --- 
